@@ -1,5 +1,5 @@
 # CERT
-CERT - certificates of IP:PORT or DOMAIN throught Tor.
+🧪 CERT - certificates of IP:PORT or DOMAIN throught Tor.
 
 ```
 Example:
